@@ -1,0 +1,50 @@
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Clasterization_.csprojResolveAssemblyReference.cache
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Clasterization_.csproj.GenerateResource.Cache
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form3.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form4.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\Clasterization_.csprojResolveAssemblyReference.cache
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form3.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form4.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр\WindowsFormsApplication3\obj\Release\Clasterization_.csproj.GenerateResource.Cache
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\Clasterization_.csprojResolveAssemblyReference.cache
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form3.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form4.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Amigo's\Documents\Visual Studio 2012\Projects\УИР 6 семестр — УИР+практика\WindowsFormsApplication3\obj\Release\Clasterization_.csproj.GenerateResource.Cache
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\Clasterization_.csprojResolveAssemblyReference.cache
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form3.resources
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form4.resources
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\obj\Release\Clasterization_.csproj.GenerateResource.Cache
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\bin\Release\alglibnet2.dll
+C:\Users\Amigo's\Desktop\УИР 8 семестр\WindowsFormsApplication3\bin\Release\Lib_pca.dll

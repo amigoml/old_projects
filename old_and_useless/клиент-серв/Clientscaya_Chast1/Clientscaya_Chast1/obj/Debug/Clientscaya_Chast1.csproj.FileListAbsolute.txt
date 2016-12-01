@@ -1,0 +1,8 @@
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\bin\Debug\Clientscaya_Chast1.exe
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\bin\Debug\Clientscaya_Chast1.pdb
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\obj\Debug\Clientscaya_Chast1.Form1.resources
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\obj\Debug\Clientscaya_Chast1.Properties.Resources.resources
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\obj\Debug\Clientscaya_Chast1.csproj.GenerateResource.Cache
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\obj\Debug\Clientscaya_Chast1.exe
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\Clientscaya_Chast1\Clientscaya_Chast1\obj\Debug\Clientscaya_Chast1.pdb

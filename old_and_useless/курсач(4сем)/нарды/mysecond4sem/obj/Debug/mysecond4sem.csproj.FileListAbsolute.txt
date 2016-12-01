@@ -1,0 +1,9 @@
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\bin\Debug\mysecond4sem.exe
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\bin\Debug\mysecond4sem.pdb
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\obj\Debug\mysecond4sem.Form1.resources
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\obj\Debug\mysecond4sem.Properties.Resources.resources
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\obj\Debug\mysecond4sem.csproj.GenerateResource.Cache
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\obj\Debug\mysecond4sem.exe
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\obj\Debug\mysecond4sem.pdb
+C:\Users\Amigo's\Documents\Visual Studio 2008\Projects\mysecond4sem\mysecond4sem\obj\Debug\mysecond4sem.myActiveForm.resources
